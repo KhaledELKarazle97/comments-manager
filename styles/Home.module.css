@@ -1,0 +1,15 @@
+.card {
+    color:white;
+    background-color: darkred;
+    border: solid 1px darkred;
+    padding: 10px;
+    transition: .3;
+}
+
+.card:hover{
+    background-color: red;
+}
+
+.link:hover{
+    text-decoration: none;
+}

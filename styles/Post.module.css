@@ -1,0 +1,10 @@
+.commentSection{
+    padding:5px;
+    border: groove 1px black;
+    margin:5px;
+}
+.userDetails{
+    color:red;
+    font-size: 20px;
+    font-weight: bold;
+}
